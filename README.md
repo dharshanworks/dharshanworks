@@ -1,10 +1,13 @@
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Dharshan+R;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Frontend+Focused;Building+Modern+Responsive+Web+Apps" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"/>
+</p>
 
 ---
 
