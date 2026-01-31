@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Dharshan+R;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Frontend+Focused;Building+Modern+Web+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d2ff,100:3a47d5&height=200&section=header&text=Dharshan%20R&fontSize=48&fontColor=ffffff&animation=twinkling" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Frontend+Focused;React+%7C+Node+%7C+MongoDB" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&animation=fadeIn"/>
 
 
 
