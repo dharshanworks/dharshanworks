@@ -1,10 +1,9 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Dharshan+R;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Frontend+Focused;Building+Modern+Responsive+Web+Apps" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Dharshan+R;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Frontend+Focused;Building+Modern+Web+Applications" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&animation=fadeIn"/>
+
 
 
 
