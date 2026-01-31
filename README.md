@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:141E30,100:243B55&height=200&section=header&text=Dharshan%20R&fontSize=46&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:203a43&height=190&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=00eaff&animation=fadeIn" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1100&color=7FDBFF&center=true&vCenter=true&width=900&height=60&lines=Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Frontend+Focused;Clean+Code+%7C+Scalable+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00eaff&center=true&vCenter=true&width=900&height=60&lines=Dharshan+R;Frontend+Focused+Full+Stack+Developer;React+%7C+Node+%7C+MongoDB" />
 </div>
+>
 
 
 
