@@ -1,50 +1,72 @@
-# <h1 align="center">Hi 👋, I'm Dharshan R</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Final+Year+B.Tech+IT+Student;Full+Stack+Developer;Java+Programmer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+# ⚡ Dharshan R
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Programmer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Building+Something+Cool+🚀">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-
-* 🎓 Final Year B.Tech Information Technology Student
-* 💻 Passionate about Full Stack Development
-* 🌱 Currently learning **Cloud Computing and DevOps**
-* 🔥 Skilled in **Java, DSA, MERN Stack**
-* ☁ Exploring **Docker, Kubernetes, Jenkins and AWS**
-* 🚀 Building scalable and real-world applications
-* 🎯 Goal: Secure an excellent software role and continuously grow as an engineer
+</div>
 
 ---
 
-## 🌐 Connect With Me
+```bash
+root@github:~$ whoami
 
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+Name        : Dharshan R
+Education   : Final Year B.Tech IT
+Role        : Full Stack Developer
+Languages   : Java, JavaScript
+Stack       : MERN
+Interest    : Cloud Computing & DevOps
+Current Goal: Become a DevOps Engineer 🚀
+```
 
 ---
 
-## 🛠 Languages and Tools
+# 🟢 SYSTEM STATUS
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,jenkins,aws,linux,vscode,postman,figma" />
-</p>
+| Component       | Status      |
+| --------------- | ----------- |
+| Java            | ✅ Online    |
+| MERN Stack      | ✅ Online    |
+| Docker          | ✅ Learning  |
+| Kubernetes      | ✅ Learning  |
+| AWS             | ✅ Learning  |
+| Jenkins         | ✅ Learning  |
+| Git & GitHub    | ✅ Active    |
+| Problem Solving | ⚡ Improving |
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Current Mission
+
+```yaml
+mission:
+  project: CloudCart
+  architecture: MERN + Docker + Kubernetes
+  ci_cd: Jenkins
+  gitops: ArgoCD
+  monitoring:
+    - Prometheus
+    - Grafana
+  logging:
+    - Elasticsearch
+    - Logstash
+    - Kibana
+```
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,docker,kubernetes,jenkins,aws,git,github,linux,vscode,postman"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -56,91 +78,66 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark">
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&row=1&column=7">
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### ☁ CloudCart
-
-DevOps-enabled MERN E-Commerce platform with:
-
-* Docker
-* Kubernetes
-* Jenkins CI/CD
-* ArgoCD GitOps
-* Prometheus & Grafana Monitoring
-* ELK Stack Logging
-
----
-
-### 💻 MERN Stack Applications
-
-* Authentication System
-* CRUD Applications
-* REST APIs
-* Responsive UI Designs
-
----
-
-### ☁ DevOps Projects
-
-* CI/CD Pipelines
-* Containerization using Docker
-* Kubernetes Deployments
-* Monitoring with Prometheus and Grafana
-
----
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+
 </p>
 
 ---
 
-## ✨ Random Dev Quote
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+</a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-> "Code. Deploy. Automate. Repeat. 🚀"
+### ⚡ Code • Deploy • Automate • Repeat ⚡
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+</div>
