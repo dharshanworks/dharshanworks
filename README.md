@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dharshan%20R&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20🚀&descAlignY=60"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications+🚀">
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications+🚀"/>
 
