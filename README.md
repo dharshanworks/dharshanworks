@@ -1,11 +1,10 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Dharshan%20R&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20🚀&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dharshan%20R&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20🚀&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=dharshanworks&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dharshanworks&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -23,7 +22,7 @@ Languages    : Java, JavaScript
 Stack        : MERN
 Interests    : Cloud Computing & DevOps
 Current Goal : Become a DevOps Engineer 🚀
-````
+```
 
 ---
 
@@ -32,17 +31,6 @@ Current Goal : Become a DevOps Engineer 🚀
 ```yaml
 project:
   name: CloudCart
-
-architecture:
-  frontend:
-    - React
-
-  backend:
-    - Node.js
-    - Express
-
-  database:
-    - MongoDB
 
 containerization:
   - Docker
@@ -70,76 +58,17 @@ cloud:
 
 ---
 
-# 📚 DevOps Journey
-
-```text
-Java                 ████████████ 100%
-MERN Stack           ████████████ 100%
-Docker               ███████████░ 90%
-Kubernetes           ██████████░░ 85%
-Jenkins              ██████████░░ 85%
-AWS                  █████████░░░ 80%
-GitOps               █████████░░░ 80%
-Monitoring           █████████░░░ 80%
-DevSecOps            ████████░░░░ 75%
-Terraform            ██████░░░░░░ 60%
-```
-
----
-
 # ⚙️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,docker,kubernetes,jenkins,aws,git,github,linux,vscode,postman" />
 
 </div>
 
 ---
 
-# 🔥 Tech Badges
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -181,7 +110,7 @@ Terraform            ██████░░░░░░ 60%
 
 ---
 
-# 📊 Profile Summary Cards
+# 📊 Profile Summary
 
 <p align="center">
 
@@ -189,35 +118,21 @@ Terraform            ██████░░░░░░ 60%
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharshanworks&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharshanworks&theme=tokyonight"/>
-
-</p>
-
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dharshanworks/dharshanworks/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 💡 DevOps Philosophy
+# 💻 DevOps Journey
 
 ```text
-Code.
-Build.
-Deploy.
-Monitor.
-Automate.
-Repeat.
+Java                 ████████████ 100%
+MERN Stack           ████████████ 100%
+Docker               ███████████░ 90%
+Kubernetes           ██████████░░ 85%
+Jenkins              ██████████░░ 85%
+AWS                  █████████░░░ 80%
+GitOps               █████████░░░ 80%
+Monitoring           █████████░░░ 80%
+DevSecOps            ████████░░░░ 75%
+Terraform            ██████░░░░░░ 60%
 ```
 
 ---
@@ -226,15 +141,21 @@ Repeat.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/iamdharsharnt">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dharshanworks@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://leetcode.com/u/iamdharsharnt/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
@@ -246,7 +167,6 @@ Repeat.
 
 ### ⚡ Code • Build • Deploy • Monitor • Automate • Repeat ⚡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 
 </div>
-```
