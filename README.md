@@ -13,7 +13,7 @@
 # 👨‍💻 About Me
 
 ```bash
-root@github:~$ whoami
+
 
 Name         : Dharshan R
 Education    : Final Year B.Tech Information Technology
@@ -26,37 +26,6 @@ Current Goal : Become a DevOps Engineer 🚀
 
 ---
 
-# 🚀 Current Mission
-
-```yaml
-project:
-  name: CloudCart
-
-containerization:
-  - Docker
-
-orchestration:
-  - Kubernetes
-
-ci_cd:
-  - Jenkins
-
-gitops:
-  - ArgoCD
-
-monitoring:
-  - Prometheus
-  - Grafana
-
-security:
-  - Trivy
-  - OWASP Dependency Check
-
-cloud:
-  - AWS
-```
-
----
 
 # ⚙️ Tech Stack
 
