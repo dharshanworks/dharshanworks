@@ -68,15 +68,6 @@ Current Goal : Become a DevOps Engineer 🚀
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharshanworks&theme=algolia&row=1&column=7"/>
-
-</p>
-
 ---
 
 # 📊 Profile Summary
