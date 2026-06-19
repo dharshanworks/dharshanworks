@@ -17,7 +17,7 @@
 
 Name         : Dharshan R
 Education    : Final Year B.Tech Information Technology
-Role         : Full Stack Developer
+Role         : Software Engineer
 Languages    : Java, JavaScript
 Stack        : MERN
 Interests    : Cloud Computing & DevOps
