@@ -1,10 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dharshan%20R&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20🚀&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Dharshan%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications+🚀"/>
+# Software Engineer • Java Developer • AWS DevOps Engineer
 
-<img src="https://komarev.com/ghpvc/?username=dharshanworks&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Cloud+Native+Developer;Java+Backend+Developer;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New+🚀"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=dharshanworks&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/dharshanworks?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/dharshanworks?style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -12,65 +22,177 @@
 
 # 👨‍💻 About Me
 
-```bash
+```yaml
+Name: Dharshan R
 
+Role: Software Engineer
 
-Name         : Dharshan R
-Education    : Final Year B.Tech Information Technology
-Role         : Software Engineer
-Languages    : Java, JavaScript
-Stack        : MERN
-Interests    : Cloud Computing & DevOps
-Current Goal : Become a DevOps Engineer 🚀
+Education: B.Tech Information Technology
+
+Specialization:
+  - Java
+  - MERN Stack
+  - AWS
+  - Kubernetes
+  - DevOps
+
+Currently Learning:
+  - Terraform
+  - GitOps
+  - Cloud Architecture
+  - DevSecOps
+
+Goal:
+  Build highly scalable cloud-native applications.
 ```
 
 ---
 
+# 🚀 What I Do
 
-# ⚙️ Tech Stack
+✔ Build Full Stack Applications
 
-<div align="center">
+✔ Design REST APIs
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,docker,kubernetes,jenkins,aws,git,github,linux,vscode,postman" />
+✔ Containerize Applications using Docker
 
-</div>
+✔ Deploy Applications on Kubernetes
+
+✔ Automate CI/CD using Jenkins
+
+✔ Build Infrastructure on AWS
+
+✔ Learn Cloud Native Technologies
 
 ---
 
-# 📊 GitHub Statistics
+# ⚙️ Technology Stack
 
-<p align="center">
+## Programming
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharshanworks&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanworks&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,js,python"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## Frontend
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshanworks&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+## Database
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshanworks&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </p>
 
 ---
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,linux,git,github"/>
+
+</p>
+
 ---
 
-# 📊 Profile Summary
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| ☁️ AWS DevOps Navigator | Complete AWS & DevOps Learning Platform | AWS, Kubernetes |
+| 🛒 CloudCart | Full Stack E-Commerce Platform | MERN |
+| 💳 Payment Service | Production Ready Kubernetes Deployment | Kubernetes, Helm |
+| 📈 Monitoring Stack | Prometheus + Grafana Monitoring | Kubernetes |
+| 🏗 Infrastructure as Code | AWS Infrastructure Automation | Terraform |
+
+---
+
+# ☁️ DevOps Skills
+
+```
+Linux                  ██████████████████
+
+Git                    ██████████████████
+
+Docker                 █████████████████
+
+Kubernetes             ████████████████
+
+AWS                    ███████████████
+
+Jenkins                ███████████████
+
+Terraform              █████████████
+
+GitOps                 ████████████
+
+Monitoring             ████████████
+
+DevSecOps              ██████████
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dharshanworks&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanworks&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharshanworks&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharshanworks&theme=tokyo-night"/>
+
+</p>
+
+---
 
 <p align="center">
 
@@ -80,20 +202,53 @@ Current Goal : Become a DevOps Engineer 🚀
 
 ---
 
-# 💻 DevOps Journey
+# 🏆 GitHub Trophies
 
-```text
-Java                 ████████████ 100%
-MERN Stack           ████████████ 100%
-Docker               ███████████░ 90%
-Kubernetes           ██████████░░ 85%
-Jenkins              ██████████░░ 85%
-AWS                  █████████░░░ 80%
-GitOps               █████████░░░ 80%
-Monitoring           █████████░░░ 80%
-DevSecOps            ████████░░░░ 75%
-Terraform            ██████░░░░░░ 60%
-```
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dharshanworks&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dharshanworks/dharshanworks/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> Build.
+
+> Learn.
+
+> Automate.
+
+> Scale.
+
+> Repeat.
+
+---
+
+# 🎯 2026 Goals
+
+- Master Kubernetes
+
+- Learn Advanced AWS
+
+- Become Terraform Expert
+
+- Build Cloud Native Projects
+
+- Contribute to Open Source
+
+- Crack Software Engineer Role 🚀
 
 ---
 
@@ -109,7 +264,7 @@ Terraform            ██████░░░░░░ 60%
 
 <a href="mailto:dharshanworks@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
@@ -125,8 +280,8 @@ Terraform            ██████░░░░░░ 60%
 
 <div align="center">
 
-### ⚡ Code • Build • Deploy • Monitor • Automate • Repeat ⚡
+## ⚡ Build • Ship • Scale • Automate ⚡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
