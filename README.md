@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Dharshan%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
