@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Dharshan%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:0F0F0F,50:24103A,100:6C2BD9"/>
 
-# 👋 Hi, I'm Dharshan R
+# 👋 Hi, I'm Dharshan
 
 ### Full-Stack Developer • MERN • Cloud & DevOps Enthusiast
 
