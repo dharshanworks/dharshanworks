@@ -1,101 +1,197 @@
 # Hi, I'm Dharshan 👋
 
-### B.Tech Information Technology Student | Full-Stack Developer
+### B.Tech IT Student | Full-Stack Developer | Exploring Cloud, DevOps & AI
 
-I'm an IT student interested in **Full-Stack Development, Cloud Computing, and DevOps**.
+I'm a B.Tech Information Technology student interested in **Full-Stack Development and Software Engineering**.
 
-I enjoy building web applications, learning new technologies, and improving my problem-solving skills.
+I enjoy building web applications, solving problems, and learning new technologies. My main focus is Full-Stack Development, while I am also exploring areas such as **Cloud Computing, DevOps, AI, and modern software development practices**.
 
-Currently, I'm focusing on **MERN Stack, AWS, Docker, Kubernetes, and CI/CD**.
+I'm still learning and improving every day, and I enjoy understanding how different technologies work together.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Information Technology student
-* 💻 Interested in Full-Stack Development
-* ☁️ Learning Cloud & DevOps
-* 🧩 Practicing Data Structures & Algorithms
-* 🚀 Building projects to improve my development skills
-* 🌱 Always learning and exploring new technologies
+- 🎓 B.Tech Information Technology student
+- 💻 Interested in Full-Stack Development
+- 🌱 Continuously learning new technologies
+- ☁️ Exploring Cloud Computing & DevOps
+- 🤖 Exploring AI and modern development tools
+- 🧩 Practicing Data Structures & Algorithms
+- 🚀 Building projects to gain practical experience
+- 🔧 Interested in understanding both development and deployment
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:**
-Java • JavaScript • Python
+### Languages
 
-**Frontend:**
+Java • JavaScript • TypeScript • SQL • Python
+
+### Frontend
+
 React.js • HTML • CSS • Tailwind CSS
 
-**Backend:**
-Node.js • Express.js • REST APIs
+### Backend
 
-**Databases:**
-MongoDB • MySQL
+Node.js • Express.js • FastAPI • REST APIs • WebSockets
 
-**Cloud & DevOps:**
-AWS • Docker • Kubernetes • Jenkins • Terraform • Linux
+### Databases
 
-**Tools:**
-Git • GitHub • VS Code • Postman
+MongoDB • MongoDB Atlas • MySQL • SQLite
+
+### Development Tools
+
+Git • GitHub • Docker • Postman • VS Code
+
+### Currently Exploring
+
+AWS • Amazon EKS • Kubernetes • CI/CD • DevOps • Cloud Computing • AI
+
+### Fundamentals
+
+Data Structures & Algorithms • OOP • DBMS • MVC • API Design • Software Architecture
 
 ---
 
 ## 🚀 Projects
 
-### ☁️ CloudForge
+### 🛒 CloudCart — MERN E-Commerce Platform
 
-A full-stack project focused on modern application development and cloud deployment.
+A full-stack e-commerce application built using the MERN stack.
 
-**Tech:** React • Node.js • Express • MongoDB • Docker
+**Features:**
 
-[View Repository](https://github.com/dharshanworks/CloudForge)
+- User authentication
+- Product management
+- Shopping cart
+- Order workflows
+- REST APIs
+- MongoDB Atlas integration
+- Responsive frontend
 
----
+**Tech Stack:**
 
-### 🛒 CloudCart
+`React.js` `Node.js` `Express.js` `MongoDB Atlas` `REST APIs` `Docker`
 
-A MERN-based e-commerce application with user authentication, products, cart, and order management.
+🌐 **Live:** https://e-commerce-cloud-application.vercel.app/
 
-**Tech:** MongoDB • Express.js • React • Node.js
-
----
-
-### 🏥 Hospital Management System
-
-A web application for managing patients, appointments, and healthcare workflows.
-
-**Tech:** MongoDB • Express.js • React • Node.js
+💻 **GitHub:** https://github.com/dharshanworks
 
 ---
 
-### 💰 Compensation & Pay Equity System
+### 🤖 AI Call Center Copilot — Real-Time AI Customer Support Platform
 
-A full-stack application for organizing and managing compensation-related information.
+A full-stack application designed for managing customer records, call workflows, and real-time conversation monitoring.
 
-**Focus:** Full-Stack Development • APIs • Database • Dashboard
+**Features:**
+
+- Customer management
+- Call workflow management
+- Real-time call status
+- Speech transcription
+- Sentiment analysis
+- Real-time dashboard updates
+- AI-assisted customer interactions
+
+**Tech Stack:**
+
+`Python` `FastAPI` `React.js` `WebSockets` `SQLAlchemy` `SQLite` `Whisper` `LLaMA 3.1` `TTS`
+
+🌐 **Live:** https://ai-call-center-copilot.vercel.app/
 
 ---
 
-## ☁️ Currently Learning
+### 🏭 Telecentric Image & System Architecture
 
-* AWS
-* Docker
-* Kubernetes
-* Jenkins
-* Terraform
-* Cloud-Native Development
-* System Design
+An industry-collaborated project focused on processing telecentric images of industrial components.
+
+The system uses image processing techniques to help maintain dimensional accuracy and reduce perspective distortion.
+
+**Tech Stack:**
+
+`Python` `OpenCV`
+
+**Key Areas:**
+
+- Image preprocessing
+- Feature detection
+- Feature matching
+- Image alignment
+- Image stitching
+- High-resolution image generation
+
+---
+
+## ☁️ What I'm Currently Learning
+
+I'm not focused only on DevOps. I'm exploring different areas of software development to understand the complete development process.
+
+### Cloud
+
+- AWS fundamentals
+- EC2
+- S3
+- IAM
+- Cloud architecture
+
+### DevOps
+
+- Docker
+- CI/CD
+- Jenkins
+- Kubernetes
+- Terraform
+- Linux
+
+### Development
+
+- Full-Stack Development
+- REST API design
+- Backend architecture
+- Database design
+- Software architecture
+
+### AI
+
+- AI application development
+- LLM-based applications
+- Speech and language technologies
+- AI-assisted software development
 
 ---
 
 ## 🧠 Problem Solving
 
-I regularly practice Data Structures & Algorithms to improve my programming and problem-solving skills.
+I practice **Data Structures & Algorithms** to improve my programming fundamentals and problem-solving ability.
 
-[LeetCode](https://leetcode.com/u/iamdharsharnt/)
+🔗 **LeetCode:**  
+https://leetcode.com/u/iamdharsharnt/
+
+---
+
+## 📚 Certifications & Achievements
+
+- **TCS iON Career Edge – Young Professional**
+- **AWS Cloud Practitioner Essentials**
+- **Fundamentals of Cloud Computing – Udemy**
+- 🥈 **2nd Place – Pixel to Page 24-Hour Challenge**
+- 🏅 **5th Place – National-Level Hackathon among 300+ teams**
+
+---
+
+## 🎯 My Goals
+
+- Improve my Full-Stack Development skills
+- Build more practical applications
+- Strengthen my programming fundamentals
+- Learn and understand cloud technologies
+- Gain practical exposure to DevOps
+- Explore AI and modern software technologies
+- Contribute to open-source projects
+- Improve my system design knowledge
+- Grow as a Software Engineer
 
 ---
 
@@ -111,26 +207,34 @@ I regularly practice Data Structures & Algorithms to improve my programming and 
 
 ---
 
-## 🎯 My Goals
+## 🔗 Connect With Me
 
-* Improve my Full-Stack Development skills
-* Build and deploy applications on AWS
-* Learn DevOps and cloud technologies
-* Contribute to open-source projects
-* Strengthen DSA and problem-solving
-* Grow as a Software Engineer
+<p align="left">
+
+<a href="https://github.com/dharshanworks">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/iamdharsharnt">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/iamdharsharnt/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🙌 A Little About My Journey
 
-* 💼 [LinkedIn](https://linkedin.com/in/iamdharsharnt)
-* 💻 [GitHub](https://github.com/dharshanworks)
-* 🧠 [LeetCode](https://leetcode.com/u/iamdharsharnt/)
-* 📧 [dharshanworks@gmail.com](mailto:dharshanworks@gmail.com)
+I'm still at the beginning of my software engineering journey.
+
+Rather than limiting myself to one technology, I'm trying to learn different parts of software development — from writing frontend and backend applications to understanding databases, cloud platforms, deployment, DevOps, and AI.
+
+I believe the best way to learn is to **build, experiment, make mistakes, and improve**.
 
 ---
 
-### Thanks for visiting my profile! 🙌
-
-**Learn • Build • Improve • Repeat**
+### 🌱 Learn • Build • Improve • Repeat
