@@ -149,18 +149,6 @@ I regularly practice **Data Structures & Algorithms** to strengthen my programmi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dharshanworks&show_icons=true&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshanworks&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="left">
