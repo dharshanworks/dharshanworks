@@ -2,11 +2,11 @@
 
 ### B.Tech IT Student | Full-Stack Developer | Exploring Cloud, DevOps & AI
 
-I'm a B.Tech Information Technology student interested in **Full-Stack Development and Software Engineering**.
+I'm a **B.Tech Information Technology student** interested in building practical software applications and understanding how modern applications are developed, deployed, and scaled.
 
-I enjoy building web applications, solving problems, and learning new technologies. My main focus is Full-Stack Development, while I am also exploring areas such as **Cloud Computing, DevOps, AI, and modern software development practices**.
+My primary focus is **Full-Stack Development**, while I'm also exploring **Cloud Computing, DevOps, and AI**.
 
-I'm still learning and improving every day, and I enjoy understanding how different technologies work together.
+I enjoy learning by **building projects, solving problems, experimenting with technologies, and improving continuously.**
 
 ---
 
@@ -14,107 +14,84 @@ I'm still learning and improving every day, and I enjoy understanding how differ
 
 - 🎓 B.Tech Information Technology student
 - 💻 Interested in Full-Stack Development
-- 🌱 Continuously learning new technologies
-- ☁️ Exploring Cloud Computing & DevOps
-- 🤖 Exploring AI and modern development tools
+- ☁️ Exploring Cloud & DevOps
+- 🤖 Exploring AI applications
 - 🧩 Practicing Data Structures & Algorithms
-- 🚀 Building projects to gain practical experience
-- 🔧 Interested in understanding both development and deployment
+- 🚀 Building practical projects
+- 🌱 Always learning and improving
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages
+**Languages**  
+Java • JavaScript • TypeScript • Python • SQL
 
-Java • JavaScript • TypeScript • SQL • Python
-
-### Frontend
-
+**Frontend**  
 React.js • HTML • CSS • Tailwind CSS
 
-### Backend
-
+**Backend**  
 Node.js • Express.js • FastAPI • REST APIs • WebSockets
 
-### Databases
-
+**Databases**  
 MongoDB • MongoDB Atlas • MySQL • SQLite
 
-### Development Tools
-
+**Tools**  
 Git • GitHub • Docker • Postman • VS Code
 
-### Currently Exploring
+**Cloud & DevOps**  
+AWS • Kubernetes • Jenkins • Terraform • Linux • CI/CD
 
-AWS • Amazon EKS • Kubernetes • CI/CD • DevOps • Cloud Computing • AI
-
-### Fundamentals
-
-Data Structures & Algorithms • OOP • DBMS • MVC • API Design • Software Architecture
+**Fundamentals**  
+DSA • OOP • DBMS • API Design • Software Architecture
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🛒 CloudCart — MERN E-Commerce Platform
 
-A full-stack e-commerce application built using the MERN stack.
+A full-stack e-commerce application built with the MERN stack.
 
-**Features:**
-
+**Highlights**
 - User authentication
 - Product management
-- Shopping cart
-- Order workflows
+- Shopping cart & orders
 - REST APIs
-- MongoDB Atlas integration
-- Responsive frontend
+- MongoDB Atlas
+- Responsive UI
+- Dockerized application
 
-**Tech Stack:**
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Docker`
 
-`React.js` `Node.js` `Express.js` `MongoDB Atlas` `REST APIs` `Docker`
-
-🌐 **Live:** https://e-commerce-cloud-application.vercel.app/
-
-💻 **GitHub:** https://github.com/dharshanworks
+🌐 [Live Demo](https://e-commerce-cloud-application.vercel.app/)  
+💻 [GitHub](https://github.com/dharshanworks)
 
 ---
 
-### 🤖 AI Call Center Copilot — Real-Time AI Customer Support Platform
+### 🤖 AI Call Center Copilot
 
-A full-stack application designed for managing customer records, call workflows, and real-time conversation monitoring.
+A full-stack AI application for customer management, call workflows, and real-time conversation monitoring.
 
-**Features:**
-
+**Highlights**
 - Customer management
-- Call workflow management
 - Real-time call status
 - Speech transcription
 - Sentiment analysis
-- Real-time dashboard updates
-- AI-assisted customer interactions
+- WebSocket-based updates
+- AI-assisted interactions
 
-**Tech Stack:**
+**Stack:** `Python` `FastAPI` `React` `WebSockets` `Whisper` `LLaMA` `SQLite`
 
-`Python` `FastAPI` `React.js` `WebSockets` `SQLAlchemy` `SQLite` `Whisper` `LLaMA 3.1` `TTS`
-
-🌐 **Live:** https://ai-call-center-copilot.vercel.app/
+🌐 [Live Demo](https://ai-call-center-copilot.vercel.app/)
 
 ---
 
-### 🏭 Telecentric Image & System Architecture
+### 🏭 Telecentric Image Processing System
 
-An industry-collaborated project focused on processing telecentric images of industrial components.
+An industry-collaborated project for processing telecentric images of industrial components.
 
-The system uses image processing techniques to help maintain dimensional accuracy and reduce perspective distortion.
-
-**Tech Stack:**
-
-`Python` `OpenCV`
-
-**Key Areas:**
-
+**Focus Areas**
 - Image preprocessing
 - Feature detection
 - Feature matching
@@ -122,22 +99,20 @@ The system uses image processing techniques to help maintain dimensional accurac
 - Image stitching
 - High-resolution image generation
 
+**Stack:** `Python` `OpenCV`
+
 ---
 
-## ☁️ What I'm Currently Learning
+## ☁️ Currently Learning
 
-I'm not focused only on DevOps. I'm exploring different areas of software development to understand the complete development process.
+### Development
+- Full-Stack Development
+- Backend Architecture
+- Database Design
+- REST API Design
 
-### Cloud
-
-- AWS fundamentals
-- EC2
-- S3
-- IAM
-- Cloud architecture
-
-### DevOps
-
+### Cloud & DevOps
+- AWS
 - Docker
 - CI/CD
 - Jenkins
@@ -145,53 +120,32 @@ I'm not focused only on DevOps. I'm exploring different areas of software develo
 - Terraform
 - Linux
 
-### Development
-
-- Full-Stack Development
-- REST API design
-- Backend architecture
-- Database design
-- Software architecture
-
 ### AI
+- AI Application Development
+- LLM Applications
+- Speech & Language Technologies
 
-- AI application development
-- LLM-based applications
-- Speech and language technologies
-- AI-assisted software development
-
----
-
-## 🧠 Problem Solving
-
-I practice **Data Structures & Algorithms** to improve my programming fundamentals and problem-solving ability.
-
-🔗 **LeetCode:**  
-https://leetcode.com/u/iamdharsharnt/
+### Problem Solving
+- Data Structures & Algorithms
+- System Design Fundamentals
 
 ---
 
-## 📚 Certifications & Achievements
+## 🏆 Achievements
 
-- **TCS iON Career Edge – Young Professional**
-- **AWS Cloud Practitioner Essentials**
-- **Fundamentals of Cloud Computing – Udemy**
-- 🥈 **2nd Place – Pixel to Page 24-Hour Challenge**
-- 🏅 **5th Place – National-Level Hackathon among 300+ teams**
+- 🥈 **2nd Place — Pixel to Page 24-Hour Challenge**
+- 🏅 **5th Place — National-Level Hackathon among 300+ teams**
+- 📜 **TCS iON Career Edge – Young Professional**
+- ☁️ **AWS Cloud Practitioner Essentials**
+- 📚 **Fundamentals of Cloud Computing – Udemy**
 
 ---
 
-## 🎯 My Goals
+## 🧩 Problem Solving
 
-- Improve my Full-Stack Development skills
-- Build more practical applications
-- Strengthen my programming fundamentals
-- Learn and understand cloud technologies
-- Gain practical exposure to DevOps
-- Explore AI and modern software technologies
-- Contribute to open-source projects
-- Improve my system design knowledge
-- Grow as a Software Engineer
+I regularly practice **Data Structures & Algorithms** to strengthen my programming and problem-solving skills.
+
+🔗 **[LeetCode](https://leetcode.com/u/iamdharsharnt/)**
 
 ---
 
@@ -227,14 +181,6 @@ https://leetcode.com/u/iamdharsharnt/
 
 ---
 
-## 🙌 A Little About My Journey
-
-I'm still at the beginning of my software engineering journey.
-
-Rather than limiting myself to one technology, I'm trying to learn different parts of software development — from writing frontend and backend applications to understanding databases, cloud platforms, deployment, DevOps, and AI.
-
-I believe the best way to learn is to **build, experiment, make mistakes, and improve**.
-
----
-
 ### 🌱 Learn • Build • Improve • Repeat
+
+> Building today, learning every day, and growing into a better software engineer.
