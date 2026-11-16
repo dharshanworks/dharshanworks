@@ -1,6 +1,6 @@
 # Hi, I'm Dharshan 👋
 
-### B.Tech IT Student | Full-Stack Developer | Exploring Cloud, DevOps & AI
+### B.Tech IT Student | Full-Stack Developer | Exploring Cloud, DevOps
 
 I'm a **B.Tech Information Technology student** interested in building practical software applications and understanding how modern applications are developed, deployed, and scaled.
 
