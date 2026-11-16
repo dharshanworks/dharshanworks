@@ -1,10 +1,10 @@
 # Hi, I'm Dharshan 👋
 
-### B.Tech IT Student | Full-Stack Developer | Exploring Cloud, DevOps
+### B.Tech IT Student | Devops and Cloud Engineer | Exploring Software Development with AI
 
 I'm a **B.Tech Information Technology student** interested in building practical software applications and understanding how modern applications are developed, deployed, and scaled.
 
-My primary focus is **Full-Stack Development**, while I'm also exploring **Cloud Computing, DevOps, and AI**.
+My primary focus is **Devops and Cloud Computing**, while I'm also exploring **Software Development with AI**.
 
 I enjoy learning by **building projects, solving problems, experimenting with technologies, and improving continuously.**
 
