@@ -1,4 +1,4 @@
-# Hi, I'm Dharshan R 👋
+# Hi, I'm Dharshan 👋
 
 ### Cloud & DevOps Engineer | AWS | Kubernetes | Infrastructure Automation
 
