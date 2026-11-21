@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="115" viewBox="0 0 1200 115" role="img" aria-label="Blue gradient waves">
+<defs><linearGradient id="one" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07233F"/><stop offset=".5" stop-color="#0066CC"/><stop offset="1" stop-color="#00BFFF"/></linearGradient><linearGradient id="two" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0066CC"/><stop offset="1" stop-color="#034268"/></linearGradient></defs>
+<path d="M0 45C240 90 405 5 625 53S970 80 1200 30V115H0Z" fill="url(#one)" opacity=".55"/><path d="M0 78C238 22 440 116 695 73C907 38 1080 85 1200 58V115H0Z" fill="url(#two)" opacity=".85"/>
+</svg>

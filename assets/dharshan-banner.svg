@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">Dharshan | Cloud and DevOps Engineer</title><desc id="desc">Blue gradient banner with cloud and infrastructure motifs</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="0.55" stop-color="#111F39"/><stop offset="1" stop-color="#053B66"/></linearGradient>
+ <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00C8FF"/><stop offset="1" stop-color="#86F7FF"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#033D67"/><stop offset="0.6" stop-color="#0066CC"/><stop offset="1" stop-color="#00C8FF"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#244666" stroke-width="0.7" fill="none" opacity="0.33"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="17"/></filter>
+</defs>
+<rect width="1200" height="290" fill="url(#bg)"/>
+<rect width="1200" height="290" fill="url(#grid)"/>
+<circle cx="1055" cy="76" r="92" fill="#009DFF" opacity=".18" filter="url(#glow)"/>
+<circle cx="125" cy="195" r="95" fill="#00BBFF" opacity=".12" filter="url(#glow)"/>
+<path d="M0 251C200 220 395 285 605 248C826 209 995 235 1200 206V290H0Z" fill="url(#wave)" opacity=".45"/>
+<path d="M0 279C230 245 420 303 653 265C886 233 1090 258 1200 235V290H0Z" fill="#07172E" opacity=".8"/>
+<g transform="translate(91,85)" fill="none" stroke="#57DBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M35 87H114C134 87 148 71 148 52C148 32 132 17 114 17C108 -11 80 -26 55 -14C41 -7 32 5 29 21C9 23 -4 36 -4 54C-4 73 12 87 35 87Z"/>
+  <path d="M50 47L38 58L50 69M91 47L103 58L91 69M78 42L65 74" stroke-width="4" opacity=".9"/>
+  <path d="M114 102V120M114 120H150M62 102V132M62 132H92" stroke-width="3" opacity=".5"/>
+  <circle cx="150" cy="120" r="5" fill="#57DBFF" stroke="none"/><circle cx="92" cy="132" r="5" fill="#57DBFF" stroke="none"/>
+</g>
+<g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <text x="310" y="90" font-size="19" font-weight="700" fill="#8DDCFF" letter-spacing="6">HELLO, I'M</text>
+  <text x="306" y="153" font-size="62" font-weight="800" fill="#F5FBFF" letter-spacing="-1">Dharshan</text>
+  <rect x="310" y="172" width="565" height="2" rx="1" fill="url(#highlight)" opacity=".85"/>
+  <text x="311" y="213" font-size="25" font-weight="700" fill="#70E3FF" letter-spacing="2">CLOUD &amp; DEVOPS ENGINEER</text>
+  <text x="313" y="244" font-size="15" fill="#B7DAF0" letter-spacing="2.6">AWS  ·  KUBERNETES  ·  TERRAFORM  ·  CI/CD</text>
+</g>
+<g fill="none" stroke="#48B9EE" opacity=".4"><circle cx="1098" cy="180" r="29"/><circle cx="1098" cy="180" r="49"/><path d="M1037 180H1159M1098 119V241"/></g>
+<g fill="#6CE8FF"><circle cx="1098" cy="180" r="5"/><circle cx="1098" cy="131" r="4"/><circle cx="1147" cy="180" r="4"/><circle cx="1049" cy="180" r="4"/></g>
+</svg>
